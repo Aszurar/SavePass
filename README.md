@@ -17,10 +17,10 @@ ___
 
 ___
 
-<div align="center" ><img src="" width="200">
+<div align="center" ><img src="https://i.imgur.com/iLyGnZ1.gif" width="220">
 </div>
 
-- [**Link do vídeo completo sobre o projeto**]()
+- [**Link do vídeo completo sobre o projeto**](https://www.youtube.com/watch?v=fQXnW-vNiEM)
 ___
 
 ## :information_source: Sobre
