@@ -60,7 +60,7 @@ Assim, nesse projeto criamos:
   
 <div align="center" >
   <img src="https://i.imgur.com/ClYsR45.jpg" width="250">______
-  <img src="" width=200>_______
+  <img src="https://i.imgur.com/eI7Wu1D.gif" width=220>_______
   <img src="https://i.imgur.com/1VqjWZM.jpg" width=250>
 </div>
 
