@@ -51,7 +51,7 @@ Assim, nesse projeto criamos:
 * **Cadastro de senhas/contas**:
   
 <div align="center" >
-  <img src="" width="200">______
+  <img src="https://i.imgur.com/iLyGnZ1.gif" width="220">__________________
   <img src="https://i.imgur.com/zqH5c4T.jpg" width=250>
 </div>
 
