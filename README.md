@@ -43,16 +43,14 @@ ___
 
 ## :interrobang: Motivo
 
-Esse projeto tem por objetivo por em praticar os conceitos básicos de React Native no desenvolvimento mobile no 3º capítulo do curso **Ignite** de **React Native**. 
+Esse desafio tem por objetivo por em praticar os conceitos básicos de React Native no desenvolvimento mobile no 2º capítulo do curso **Ignite** de **React Native** como o uso do Async-Storage para as requisições e funcionalidades citadas abaixo e uso do React Hook Form em conjunto com Yup para os Inputs e seus alertas. 
 
 Assim, nesse projeto criamos:
-1. Listagem geral de veículos que podem ser alugados.
-2. Cadastro de agendamentos dos veículos com suas datas formatadas e o preço total a ser pago.
-3. Listagem dos carros alugados pelo usuário.
-4. Formatação de datas com o date-fns.
-5. Componentes criados com Style Components, Flatlist e suas tipagens, hooks, navegação em pilha, calendário com o React-Native Calendars
-6. Animação e criação de componentes animados como Carrossel manual, efeito fade em componentes, uso de Splash Screen com o React Native Reanimated, Loads personalizados com Lottie econceitos básicos de Heurísticas Nielsen e UX, além de design, API REST, animação dentre outras.
 
+1. Listagem geral das contas.
+2. Cadastro de novas contas e senhas.
+3. Filtragem da lista geral de contas salvas.
+4. Uso do React Hook Form em conjunto com Yup.
 
 * **Detalhes sobre o veículo**:
   
