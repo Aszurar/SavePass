@@ -3,7 +3,11 @@
  O projeto **SavePass** é um aplicativo mobile de gerenciamento de senhas. Com ele podemos salvar contas de acesso, como:
  E-mails, senhas, endereços de IP, contas de rede sociais, dentre outras.
  Além disso, podemos listar, acessar e esconder esses dados. 
-**<h2 align="center">SavePass</h2>
+
+___
+
+<h2 align="center">SavePass</h2>
+
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
@@ -102,6 +106,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [React](https://pt-br.reactjs.org/)
 - [React-Native](https://reactnative.dev/)
 - [React Navigation](https://reactnavigation.org/)
+- [Styled Components](https://www.styled-components.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Yarn](https://classic.yarnpkg.com/blog/2017/05/12/introducing-yarn/)
 ___
