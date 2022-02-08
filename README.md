@@ -7,11 +7,9 @@
 ___
 
 <h2 align="center">SavePass</h2>
-
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
-  <a href="#art-design">Design</a>&nbsp;|&nbsp;
   <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#package-como-baixar-e-executar-o-projeto">Baixar e Executar</a>&nbsp;
@@ -34,13 +32,7 @@ Além disso, revisamos estruturas com Try-Catch, ou seja, tratamos possíveis er
 * **Página Inicial**:
   
 <div align="center" >
-  <img src="" width="200">__________________<img src="" width=250>
-</div>
-
-* **Botão flutuante**:
-
-<div align="center" >
-  <img src="" width="200">___________________________<img src="" width=250>
+  <img src="https://i.imgur.com/OFTcGp4.jpg" width="250">____<img src="" width=250>____<img src="https://i.imgur.com/DzpFoQH.jpg" width="250">
 </div>
 
 ___
@@ -56,26 +48,20 @@ Assim, nesse projeto criamos:
 3. Filtragem da lista geral de contas salvas.
 4. Uso do React Hook Form em conjunto com Yup.
 
-* **Detalhes sobre o veículo**:
+* **Cadastro de senhas/contas**:
   
 <div align="center" >
   <img src="" width="200">______
-  <img src="" width=250>_______
-  <img src="" width=200>
+  <img src="https://i.imgur.com/zqH5c4T.jpg" width=250>
 </div>
 
 
-* **Agendamento/Cadastro**:
+* **Pesquisa de contas/senhas**:
   
 <div align="center" >
-  <img src="" width="200">______
-  <img src="" width=250>_______
-  <img src="" width=200>
-</div>
-
-* **Detalhes sobre o agendamento**:
-<div align="center" >
-  <img src="" width="200">___________________________<img src="" width=250>
+  <img src="https://i.imgur.com/ClYsR45.jpg" width="250">______
+  <img src="" width=200>_______
+  <img src="https://i.imgur.com/1VqjWZM.jpg" width=250>
 </div>
 
 ___
