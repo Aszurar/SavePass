@@ -23,6 +23,10 @@ interface FormData {
   password: string;
 }
 
+interface FormDataWithId extends FormData {
+  id: string;
+}
+
 const schema = Yup.object().shape({
   service_name: Yup.string().required('Nome do serviço é obrigatório!'),
   email: Yup.string().email('Não é um email válido').required('Email é obrigatório!'),
@@ -48,8 +52,19 @@ export function RegisterLoginData() {
     }
 
     const dataKey = '@savepass:logins';
-
     // Save data on AsyncStorage and navigate to 'Home' screen
+    try {
+      const oldData = await AsyncStorage.getItem(dataKey);
+      const oldDataFormatted: FormDataWithId[] = oldData ? JSON.parse(oldData) : [];
+      const newData = [...oldDataFormatted, newLoginData] ;
+      
+      await AsyncStorage.setItem(dataKey, JSON.stringify(newData));
+      Alert.alert("Dados salvos com sucesso!");
+      navigate('Home');
+    } catch (error) {
+      Alert.alert("Erro ao salvar os dados!");
+      console.log(error)
+    }
   }
 
   return (
@@ -67,7 +82,7 @@ export function RegisterLoginData() {
             name="service_name"
             error={
               // Replace here with real content
-              'Has error ? show error message'
+              errors.service_name && errors.service_name.message
             }
             control={control}
             autoCapitalize="sentences"
@@ -79,7 +94,7 @@ export function RegisterLoginData() {
             name="email"
             error={
               // Replace here with real content
-              'Has error ? show error message'
+              errors.email && errors.email.message
             }
             control={control}
             autoCorrect={false}
@@ -92,7 +107,7 @@ export function RegisterLoginData() {
             name="password"
             error={
               // Replace here with real content
-              'Has error ? show error message'
+              errors.password && errors.password.message
             }
             control={control}
             secureTextEntry
