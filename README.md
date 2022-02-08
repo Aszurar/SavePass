@@ -83,10 +83,10 @@ ___
 - Celular(Opcional)
 - Expo(desktop) 
   - Expo Go(Mobile) opcional.
-- JSON-Server
 - Node.js 
 - React
 - React-Native
+- TypeScript
 - Yarn(ou NPM)
 
 ___
@@ -102,6 +102,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [React](https://pt-br.reactjs.org/)
 - [React-Native](https://reactnative.dev/)
 - [React Navigation](https://reactnavigation.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Yarn](https://classic.yarnpkg.com/blog/2017/05/12/introducing-yarn/)
 ___
 
