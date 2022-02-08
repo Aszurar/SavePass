@@ -32,7 +32,7 @@ Além disso, revisamos estruturas com Try-Catch, ou seja, tratamos possíveis er
 * **Página Inicial**:
   
 <div align="center" >
-  <img src="https://i.imgur.com/OFTcGp4.jpg" width="250">____<img src="" width=250>____<img src="https://i.imgur.com/DzpFoQH.jpg" width="250">
+  <img src="https://i.imgur.com/OFTcGp4.jpg" width="250">____<img src="https://i.imgur.com/CgeTHvY.gif" width=220>____<img src="https://i.imgur.com/DzpFoQH.jpg" width="250">
 </div>
 
 ___
