@@ -66,7 +66,6 @@ export function RegisterLoginData() {
       console.log(error)
     }
   }
-
   return (
     <KeyboardAvoidingView
       style={{ flex: 1 }}
