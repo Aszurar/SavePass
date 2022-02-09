@@ -25,7 +25,7 @@ ___
 
 ## :information_source: Sobre
 
-O **SavePass** é o desafio principal do Capítulo 3 do bootcamp **Ignite da trilha com React-Native**. Nele, praticamos a lógica de programação com TypeScript para criação das funcionalidades desse aplicativo assim como toda estrutura para as requisições das funcionalidades desse aplicativo que utiliza o Async-Storage, ou seja o armazenamento local no dispositivo.
+O **SavePass** é o desafio principal do Capítulo 2 do bootcamp **Ignite da trilha com React-Native**. Nele, praticamos a lógica de programação com TypeScript para criação das funcionalidades desse aplicativo assim como toda estrutura para as requisições das funcionalidades desse aplicativo que utiliza o Async-Storage, ou seja o armazenamento local no dispositivo.
 
 Além disso, revisamos estruturas com Try-Catch, ou seja, tratamos possíveis erros que podem ocorrer durante a execução de uma requisição, uso de métodos como include dentre outros.
 
